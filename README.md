@@ -1,6 +1,11 @@
 
 # Terraform Project
 
+This project is a simple single project template for Terraform Example Foundation and [TEF PBMM Landing Zone](https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/).  In the diagram below, the folder and resource within "Initiative Folder" are the resources created in this repo.
+
+![Repo Architecture](./architecture.png)
+
+
 ## Initial Setup
 
 1. Clone the repository:
